@@ -1,4 +1,4 @@
-<img align="right" src="avatar.png" alt="Droidify old version of me" width=239px height=374px/>
+<img align="right" src="avatar.png" alt="Droidify old version of me" width=460px height=460px/>
 
 ### Hi, I am Georgios 👋
 
