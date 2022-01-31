@@ -1,4 +1,13 @@
-### Hi there 👋
+<img align="right" src="https://avatars.githubusercontent.com/u/4234419" alt="Droidify old version of me" width=460px height=460px/>
+
+### Hi, I am Georgios 👋
+
+I am an Android Engineer, karateka, beer crafter.
+
+- 🔭 I’m currently working at [@withplum](https://withplum.com/) 
+- 🌱 I’m currently learning Compose
+- 📫  How to reach me: Twitter [@MeTaXaS4](https://twitter.com/MeTaXaS4)
+
 
 <!--
 **GMetaxakis/gmetaxakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
