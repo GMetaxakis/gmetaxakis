@@ -10,6 +10,16 @@ I am an Android Engineer, karateka, beer crafter.
 - 📰 Articles
   - [Translating mobile apps, automate all the things!](https://medium.com/plum-engineering/translating-mobile-apps-automate-all-the-things-b76bb539b3)
 
+
+## Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gmetaxakis&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Trophy showcase!
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gmetaxakis&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **GMetaxakis/gmetaxakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
