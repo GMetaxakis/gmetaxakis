@@ -4,7 +4,7 @@
 
 I am an Android Engineer, karateka, beer crafter.
 
-- 🔭 I’m currently working at [@withplum](https://withplum.com/) 
+<!-- 🔭 I’m currently working at [@withplum](https://withplum.com/) -->
 - 🌱 I’m currently learning Compose
 - 📫 How to reach me: Twitter [@MeTaXaS4](https://twitter.com/MeTaXaS4)
 - 📰 Articles
