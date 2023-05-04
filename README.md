@@ -5,7 +5,7 @@
 I am an Android Engineer, karateka, beer crafter.
 
 <!-- 🔭 I’m currently working at [@withplum](https://withplum.com/) -->
-- 🌱 I’m currently building Inverzio's Ilon
+- 🌱 I’m currently building Inverzio's Dion
 - 📫 How to reach me: Twitter [@MeTaXaS4](https://twitter.com/MeTaXaS4)
 - 📰 Articles
   - [Jetpack Compose Navigation with custom Object](https://medium.com/@metaxas4/jetpack-compose-navigation-with-custom-object-3f9f06c0f69)
