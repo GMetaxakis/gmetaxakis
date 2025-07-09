@@ -17,7 +17,7 @@ I am an Android Engineer, karateka, beer crafter.
 
 ## Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gmetaxakis&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats]([https://github-readme-stats-fvj22ixqf-gmetaxakis-projects.vercel.app/api?username=gmetaxakis&show_icons=true&count_private=true](https://github-readme-stats-fvj22ixqf-gmetaxakis-projects.vercel.app/api?username=gmetaxakis&show_icons=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage))](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Trophy showcase!
