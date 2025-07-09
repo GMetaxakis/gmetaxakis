@@ -4,7 +4,6 @@
 
 I am an Android Engineer, karateka, beer crafter.
 
-<!-- 🔭 I’m currently working at [@withplum](https://withplum.com/) -->
 - 🌱 I’m currently building Inverzio's Dion
 - 📰 Articles
   - [Jetpack Compose Navigation with custom Object](https://medium.com/@metaxas4/jetpack-compose-navigation-with-custom-object-3f9f06c0f69)
@@ -17,24 +16,9 @@ I am an Android Engineer, karateka, beer crafter.
 
 ## Stats
 
-[![GitHub stats]([https://github-readme-stats-fvj22ixqf-gmetaxakis-projects.vercel.app/api?username=gmetaxakis&show_icons=true&count_private=true](https://github-readme-stats-fvj22ixqf-gmetaxakis-projects.vercel.app/api?username=gmetaxakis&show_icons=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage))](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats-fvj22ixqf-gmetaxakis-projects.vercel.app/api?username=gmetaxakis&show_icons=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark)
 
 
 ## Trophy showcase!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gmetaxakis&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!--
-**GMetaxakis/gmetaxakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
