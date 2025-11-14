@@ -1,4 +1,4 @@
-<img align="right" src="avatar..png" alt="Droidify old version of me" width=460px height=460px/>
+<img align="right" src="avatar.png" alt="Droidify old version of me" width=460px height=460px/>
 
 ### Hi, I am Georgios 👋
 
@@ -16,7 +16,7 @@ I am an Android Engineer, karateka, beer crafter.
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats-fvj22ixqf-gmetaxakis-projects.vercel.app/api?username=gmetaxakis&show_icons=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gmetaxakis&show_icons=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark)
 
 
 ## Trophy showcase!
