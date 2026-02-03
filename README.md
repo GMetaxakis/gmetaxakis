@@ -21,4 +21,4 @@ I am an Android Engineer, karateka, beer crafter.
 
 ## Trophy showcase!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gmetaxakis&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-mu-livid.vercel.app/?username=gmetaxakis&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
