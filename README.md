@@ -4,7 +4,7 @@
 
 **Mobile Engineer** · Tinos, Greece
 
-Founding Engineer at [Dion](https://dion.app), currently leading iOS development with Swift, SwiftUI, and TCA. Previously built the Android side from scratch with Kotlin, Jetpack Compose, and KMM.
+Founding Engineer at [Dion](https://dionapp.com/), currently leading iOS development with Swift, SwiftUI, and TCA. Previously built the Android side from scratch with Kotlin, Jetpack Compose, and KMM.
 
 Previously Senior Android Engineer at [Plum](https://withplum.com), and Software Engineer at [FORTH](https://www.forth.gr/en/home/).
 
