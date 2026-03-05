@@ -8,7 +8,7 @@ Founding Engineer at [Dion](https://dion.app), currently leading iOS development
 
 Previously Senior Android Engineer at [Plum](https://withplum.com), and Software Engineer at [FORTH](https://www.forth.gr/en/home/).
 
-Kyokushin karateka · Beer & kombucha brewer · Farmer to be
+Kyokushin karateka · Beer & kombucha brewer · Farmer to be · Proud supporter of [OneArmy](https://www.onearmy.earth/) since 2019
 
 [LinkedIn](https://www.linkedin.com/in/metaxakisgeorgios/)
 
