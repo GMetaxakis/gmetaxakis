@@ -1,0 +1,36 @@
+name: Refresh profile
+
+on:
+  schedule:
+    - cron: "17 5 * * *" # daily
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [profile.config.json, scripts/**]
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - run: pip install pillow
+      - name: Generate panels + README
+        run: python3 scripts/gen_profile.py
+        env:
+          # PAT with read:user scope, so private contributions/PRs are counted.
+          # Without it the generator keeps the cached stats in assets/manga/stats.json.
+          GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+      - name: Commit if changed
+        run: |
+          git add -A assets/manga README.md
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh profile panels"
+          git push

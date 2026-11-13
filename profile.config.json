@@ -1,0 +1,199 @@
+{
+  "name_first": "Georgios",
+  "name_last": "Metaxakis",
+  "name_jp": "ゲオルギオス",
+  "role": "Mobile Engineer",
+  "location": "Tinos, Greece",
+  "portrait": "assets/manga/portrait-ink.png",
+  "hero_bubble": "Let's ship it!",
+  "hero_sfx": "ドン！",
+  "hero_seal": "押忍",
+  "volume": "Vol. 01",
+  "now": {
+    "tag": "NOW",
+    "tag_jp": "第3章",
+    "bubble": "Founding Engineer at Dion, leading iOS with Swift, SwiftUI & TCA!",
+    "caption": "Before that, I built Dion's Android app from scratch: Kotlin, Compose, KMM.",
+    "sfx": "カタカタ"
+  },
+  "before": {
+    "tag": "FLASHBACK",
+    "tag_jp": "回想",
+    "jobs": [
+      {
+        "title": "Senior Android Engineer",
+        "at": "Plum"
+      },
+      {
+        "title": "Software Engineer",
+        "at": "FORTH"
+      }
+    ]
+  },
+  "dojo": {
+    "tag": "DOJO",
+    "caption": "Kyokushin karateka · brown belt",
+    "sfx": "バキッ"
+  },
+  "life": {
+    "tag": "SIDE QUESTS",
+    "items": [
+      "Father",
+      "Beer & kombucha brewer",
+      "Farmer to be",
+      "OneArmy supporter since 2019"
+    ],
+    "sfx": "ほのぼの"
+  },
+  "github_user": "gmetaxakis",
+  "links": [
+    {
+      "label": "Dion",
+      "url": "https://dionapp.com/"
+    },
+    {
+      "label": "Plum",
+      "url": "https://withplum.com"
+    },
+    {
+      "label": "FORTH",
+      "url": "https://www.forth.gr/en/home/"
+    },
+    {
+      "label": "OneArmy",
+      "url": "https://www.onearmy.earth/"
+    }
+  ],
+  "moves": {
+    "tag": "SPECIAL MOVES",
+    "tag_jp": "必殺技",
+    "list": [
+      {
+        "tech": "Swift",
+        "move": "Swift Strike"
+      },
+      {
+        "tech": "SwiftUI",
+        "move": "Declarative Kata"
+      },
+      {
+        "tech": "TCA",
+        "move": "Composable Stance"
+      },
+      {
+        "tech": "Kotlin",
+        "move": "Null-Safe Counter"
+      },
+      {
+        "tech": "Jetpack Compose",
+        "move": "Recomposition Rush"
+      },
+      {
+        "tech": "KMM",
+        "move": "Twin-Platform Kick"
+      },
+      {
+        "tech": "Firebase",
+        "move": "Realtime Flame"
+      },
+      {
+        "tech": "GitHub Actions",
+        "move": "Auto-Pipeline Barrage"
+      },
+      {
+        "tech": "Figma",
+        "move": "Pixel-Perfect Guard"
+      }
+    ]
+  },
+  "chapters": {
+    "tag": "CHAPTERS",
+    "tag_jp": "話",
+    "list": [
+      {
+        "title": "Jetpack Compose Navigation with custom Object",
+        "kind": "Article",
+        "source": "Medium",
+        "url": "https://medium.com/@metaxas4/jetpack-compose-navigation-with-custom-object-3f9f06c0f69"
+      },
+      {
+        "title": "Translating mobile apps, automate all the things!",
+        "kind": "Article",
+        "source": "Plum Engineering",
+        "url": "https://medium.com/plum-engineering/translating-mobile-apps-automate-all-the-things-b76bb539b3"
+      },
+      {
+        "title": "User generated content for enhanced professional productions",
+        "kind": "Paper",
+        "source": "ResearchGate",
+        "url": "https://www.researchgate.net/publication/354107491_User_generated_content_for_enhanced_professional_productions_a_mobile_application_for_content_contributors_and_a_study_on_the_factors_influencing_their_satisfaction_and_loyalty"
+      },
+      {
+        "title": "Digital Heritage Technology at the Archaeological Museum of Heraklion",
+        "kind": "Paper",
+        "source": "ResearchGate",
+        "url": "https://www.researchgate.net/publication/325598092_Digital_Heritage_Technology_at_the_Archaeological_Museum_of_Heraklion"
+      },
+      {
+        "title": "Digital Cultural Heritage Experience in Ambient Intelligence",
+        "kind": "Paper",
+        "source": "ResearchGate",
+        "url": "https://www.researchgate.net/publication/316480235_Digital_Cultural_Heritage_Experience_in_Ambient_Intelligence"
+      }
+    ]
+  },
+  "stats": {
+    "tag": "POWER LEVEL",
+    "tag_jp": "戦闘力",
+    "belts": [
+      [
+        "白",
+        "White"
+      ],
+      [
+        "橙",
+        "Orange"
+      ],
+      [
+        "青",
+        "Blue"
+      ],
+      [
+        "黄",
+        "Yellow"
+      ],
+      [
+        "緑",
+        "Green"
+      ],
+      [
+        "茶",
+        "Brown"
+      ],
+      [
+        "黒",
+        "Black"
+      ]
+    ],
+    "belt": "Brown"
+  },
+  "contact": {
+    "bubble": "Want to build something together? Let's talk!",
+    "end": "つづく",
+    "next": "Next volume: coming soon",
+    "list": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/metaxakisgeorgios/"
+      },
+      {
+        "label": "Medium",
+        "url": "https://medium.com/@metaxas4"
+      },
+      {
+        "label": "Dion",
+        "url": "https://dionapp.com/"
+      }
+    ]
+  }
+}
